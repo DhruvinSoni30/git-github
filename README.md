@@ -1,2 +1,2 @@
 # git-github
-A demo repository for learning.
+Just for the demo purpose
